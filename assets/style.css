@@ -622,3 +622,52 @@ section{
     max-width:70%;
    }
 }
+
+@media(max-width:400px){
+    .profile-photo{
+       width:120px;
+       height:120px;
+       left:32%;
+    }
+
+    /* .edit-post .button4{
+         width:65px;
+         height:20px;
+    } */
+    .gallery a>img{
+        width:100px;
+        height:70px;
+    }
+    .show-friends {
+        display: flex;
+        flex-direction:row;
+        justify-content:flex-start;
+    }
+
+    .what-is .button6{
+        width:65%;
+        padding:5px 5px;
+        font-size:15px;
+    }
+    .my-mine .my-profile{
+        width:60px;
+        height:60px;
+    }
+    .prof .hikmat-prof{
+        width: 60px;
+        height:60px;
+    }
+    .user-name h2{
+        font-size:20px;
+    }
+
+    .mode{
+        padding:15px;
+        margin:10px;
+    }
+
+    .like-comment{
+        padding:5px;
+    }
+    
+}
