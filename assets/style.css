@@ -634,14 +634,14 @@ section{
          width:65px;
          height:20px;
     } */
-    .gallery a>img{
+    /* .gallery a>img{
         width:100px;
         height:70px;
-    }
+    } */
     .show-friends {
         display: flex;
         flex-direction:row;
-        justify-content:flex-start;
+        justify-content:space-around;
     }
 
     .what-is .button6{
