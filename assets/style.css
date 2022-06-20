@@ -543,6 +543,20 @@ section{
 }
 
 
+ @media (min-width:1115px){
+       section{
+        padding-left:45px;
+       }
+      .left-col{
+        width:40%;
+        float: left;
+      }
+      .right-col{
+        width:55%;
+        float: left;
+      }
+} 
+
 
 @media  (max-width:1115px){
     *{
