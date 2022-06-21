@@ -565,7 +565,7 @@ section{
     section{
         width:90%;
         margin:20px;
-        
+        padding-left:30px;
     }
     .nav-grant,.nav-items1 ,.search-box{
         display: none;
